@@ -1,3 +1,3 @@
-# SFML Template
+# Breakout game
 
-A simple project template for SFML.
+A simple breakout game created from a tutorial by [Vittorio Romeo](https://www.youtube.com/watch?v=_4K3tsKa1Uc)
